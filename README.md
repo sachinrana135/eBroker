@@ -19,7 +19,7 @@
 * [Technologies](#technologies)
 * [Setup](#setup)
 * [APIs](#apis)
-* [Test Report](#Test Report)
+* [Test Report](#test-report)
 
 
 ## Technologies
@@ -35,7 +35,7 @@ Project is created with:
 ## Setup
 * Import the project as gradle project
 * Go to project root folder and use **./gradlew bootRun** to run up the application
-* Run ./gradlew test to run the test cases.
+* Run **./gradlew test** to run the test cases.
 * Application will run on port number 8080 
 * H2 console link - http://localhost:8080/h2-console
 
