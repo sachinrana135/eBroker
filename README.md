@@ -19,7 +19,7 @@
 * [Technologies](#technologies)
 * [Setup](#setup)
 * [APIs](#apis)
-* [Test Report](#TestReport)
+* [Test Report](#Test Report)
 
 
 ## Technologies
@@ -35,6 +35,7 @@ Project is created with:
 ## Setup
 * Import the project as gradle project
 * Go to project root folder and use **./gradlew bootRun** to run up the application
+* Run ./gradlew test to run the test cases.
 * Application will run on port number 8080 
 * H2 console link - http://localhost:8080/h2-console
 
@@ -45,3 +46,5 @@ Project is created with:
 [![Run in Postman](https://run.pstmn.io/button.svg)](https://www.getpostman.com/run-collection/36f1ceca4865d3e0cb7a)
 
 ## Test Report
+
+![alt text](https://github.com/sachinrana135/eBroker/blob/main/src/test/resources/Test-Report.png)
